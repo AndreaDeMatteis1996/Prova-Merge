@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\mvc.csproj",
+  "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\mvc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,93 +16298,93 @@
   "RootNamespace": "mvc",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Todo\\Create.cshtml",
-      "TargetPath": "Views\\Todo\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Todo\\Delete.cshtml",
-      "TargetPath": "Views\\Todo\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Home\\Contattaci.cshtml",
-      "TargetPath": "Views\\Home\\Contattaci.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Profile\\Index.cshtml",
-      "TargetPath": "Views\\Profile\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Todo\\Edit.cshtml",
-      "TargetPath": "Views\\Todo\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Profile\\Create.cshtml",
-      "TargetPath": "Views\\Profile\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Profile\\Delete.cshtml",
-      "TargetPath": "Views\\Profile\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Todo\\Edit.cshtml",
+      "TargetPath": "Views\\Todo\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Todo\\Details.cshtml",
-      "TargetPath": "Views\\Todo\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Todo\\Index.cshtml",
-      "TargetPath": "Views\\Todo\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Profile\\Details.cshtml",
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Profile\\Create.cshtml",
+      "TargetPath": "Views\\Profile\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Profile\\Edit.cshtml",
+      "TargetPath": "Views\\Profile\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Todo\\Details.cshtml",
+      "TargetPath": "Views\\Todo\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Home\\Contattaci.cshtml",
+      "TargetPath": "Views\\Home\\Contattaci.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Profile\\Index.cshtml",
+      "TargetPath": "Views\\Profile\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Todo\\Create.cshtml",
+      "TargetPath": "Views\\Todo\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Todo\\Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Todo\\Delete.cshtml",
+      "TargetPath": "Views\\Todo\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Profile\\Details.cshtml",
       "TargetPath": "Views\\Profile\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\andry\\CloudMicroservices\\mvc\\Views\\Profile\\Edit.cshtml",
-      "TargetPath": "Views\\Profile\\Edit.cshtml",
+      "FilePath": "c:\\Users\\andry\\Prova-Merge\\mvc\\Views\\Profile\\Delete.cshtml",
+      "TargetPath": "Views\\Profile\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
